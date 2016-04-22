@@ -1,0 +1,4 @@
+# Apache obviously
+# Rewrites all .js files to the index
+RewriteEngine On
+RewriteRule .\.js index.php
